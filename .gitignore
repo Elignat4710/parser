@@ -1,0 +1,8 @@
+vendor
+parentPid.out
+.env
+.vscode
+test.php
+Proxy.php
+.DS_Store
+words.txt
